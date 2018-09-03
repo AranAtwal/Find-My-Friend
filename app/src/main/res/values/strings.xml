@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Find My Friends</string>
+    <string name="title_activity_user_map">Find My Friends</string>
+    <string name="title_activity_friends_tabbed">FriendsTabbedActivity</string>
+    <string name="tab_text_1">Friends List</string>
+    <string name="tab_text_2">Add Friends</string>
+    <string name="tab_text_3">Requests</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

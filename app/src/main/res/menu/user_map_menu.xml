@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_friends"
+        android:title="Friends"
+        android:icon="@drawable/ic_action_friends"
+        android:visible="false"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_toggle_sharing"
+        android:checkable="true"
+        android:title="Share Location"
+        android:checked="true"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_closest_friend"
+        android:title="Find Nearest Friend"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/log_out"
+        android:title="Log out"
+        app:showAsAction="never"/>
+
+</menu>
